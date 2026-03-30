@@ -184,9 +184,4 @@ http://localhost:4000
 Pull requests are welcome.
 For major changes, please open an issue first.
 
----
 
-## 👩‍💻 Author
-
-**Reshmanjali**
-GitHub: [https://github.com/Reshmanjali12](https://github.com/Reshmanjali12)
